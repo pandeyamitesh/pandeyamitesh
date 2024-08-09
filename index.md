@@ -7,15 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi! I'm Amitesh, a sophomore at [Caltech](https://caltech.edu), studying computer and information science. My research interests lie at the intersection of causal inference and applied ai/ml to better model our physical world. I hope to improve existing machine learning models of our physical, chemical, biological, and urban systems by informing them of underlying causality. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Previously, I worked at the [Reisman Chemical Synthesis Group](https://reismangroup.caltech.edu) where I explored supervised machine learning methods and graph neural networks to forecast regioselectivity in the C-H bond's functionalization for improved industrial production of phenazines. I presented my work as a poster at the Caltech summer research symposium and was awarded the John Stauffer award to pursue this work. 
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I have also been involved with the MIT PatchCheck Foundation, working with [Ramesh Raskar](https://www.media.mit.edu/people/raskar/overview/) of the MIT Media Lab, where my work was centered around exploring methods to posit statistics and ml-aware COVID-19 vaccination policies. I have also spent a summer researching optimization and genetic algorithms at the [Bulgarian Academy of Sciences](https://www.proceedings.bas.bg/index.php/cr).
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+In my free time, I like to lift weights, run long-distance, and read books. 
