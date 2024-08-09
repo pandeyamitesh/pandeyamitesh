@@ -16,7 +16,7 @@
   /* Minimum width of 200px and grow to fit available space */
   flex: 1 0 200px;
   border-radius: 15px;
-  background: $projectbox;
+  background-image: url("https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop");
   @media (prefers-color-scheme: dark) {
     background: $projectbox-dark;
   }
