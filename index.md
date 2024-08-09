@@ -7,9 +7,9 @@ profile:
 published: true
 ---
 
-Hi! I'm Amitesh, a sophomore at [Caltech](https://caltech.edu), studying computer and information science. My research interests lie at the intersection of causal inference and applied ai/ml to better model our physical world. I hope to improve existing machine learning models of our physical, chemical, biological, and urban systems by informing them of underlying causality. 
+Hi! I'm Amitesh, a sophomore at [Caltech](https://caltech.edu), studying computer and information science. My research interests lie at the intersection of causal inference and ml/ai to better model our physical world. I hope to improve existing machine learning models of our physical, chemical, biological, and urban systems by informing them of underlying causality. 
 
-Previously, I worked at the [Reisman Chemical Synthesis Group](https://reismangroup.caltech.edu) where I explored supervised machine learning methods and graph neural networks to forecast regioselectivity in the C-H bond's functionalization for improved industrial production of phenazines. I presented my work as a poster at the Caltech summer research symposium and was awarded the John Stauffer award to pursue this work. 
+Previously, I worked at the [Reisman Chemical Synthesis Group](https://cce.caltech.edu/people/sarah-e-reisman) where I explored supervised machine learning methods and graph neural networks to forecast regioselectivity in the C-H bond's functionalization for improved industrial production of phenazines. I presented my work as a poster at the Caltech summer research symposium and was awarded the John Stauffer award to pursue this work. 
 
 I have also been involved with the MIT PatchCheck Foundation, working with [Ramesh Raskar](https://www.media.mit.edu/people/raskar/overview/) of the MIT Media Lab, where my work was centered around exploring methods to posit statistics and ml-aware COVID-19 vaccination policies. I have also spent a summer researching optimization and genetic algorithms at the [Bulgarian Academy of Sciences](https://www.proceedings.bas.bg/index.php/cr).
 
