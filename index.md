@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hi! I'm Amitesh (अमितेश, /ə.mɪ.t̪eːʃ/), a sophomore at [Caltech](https://caltech.edu){:target="_blank"}, studying computer and information science. My research interests lie at the intersection of causal inference and ml/ai to better model our physical world. I hope to improve existing machine learning models of our natural and urban systems by informing them of underlying causality and vice-versa. 
+Hi! I'm Amitesh (अमितेश, /ə.mɪ.t̪e͡ɪʃ/), a sophomore at [Caltech](https://caltech.edu){:target="_blank"}, studying computer and information science. My research interests lie at the intersection of causal inference and ml/ai to better model our physical world. I hope to improve existing machine learning models of our natural and urban systems by informing them of underlying causality and vice-versa. 
 
 Keywords: `ml/ai for science` `causal inference` `natural and urban systems`
 
