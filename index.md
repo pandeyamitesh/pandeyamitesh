@@ -9,7 +9,7 @@ published: true
 
 Hi! I'm Amitesh, a sophomore at [Caltech](https://caltech.edu){:target="_blank"}, studying computer and information science. My research interests lie at the intersection of causal inference and ml/ai to better model our physical world. I hope to improve existing machine learning models of our natural and urban systems by informing them of underlying causality and vice-versa. 
 
-Keywords: `ml/ai for science`, `causal inference`, `natural and urban systems`
+Keywords: `ml/ai for science` `causal inference` `natural and urban systems`
 
 Previously, I worked at the [Reisman Chemical Synthesis Group](https://cce.caltech.edu/people/sarah-e-reisman){:target="_blank"} where I explored supervised machine learning methods and graph neural networks to forecast regioselectivity in the C-H bond's functionalization for improved industrial production of phenazines. I presented my work as a poster at the Caltech summer research symposium and was awarded the John Stauffer award to pursue this work. 
 
