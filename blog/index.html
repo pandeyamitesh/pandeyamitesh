@@ -4,8 +4,7 @@ layout: default
 
 <div class="article-list">
   {% for post in paginator.posts %}
-    <img src = "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop"/>
-    <h2>{{post.title}}</h2>
+    <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{post.excerpt | strip_html}}</p>
   {% endfor %}
 </div>
