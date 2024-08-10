@@ -204,25 +204,22 @@ blockquote {
 }
 
 .research-text {
-  display: inline-block;
-  vertical-align: top;
-  margin-left: 5%;
-}
-
-.research-desc {
-  vertical-align: top;
-  margin-top: -10%;
+  vertical-align:middle;
 }
 
 .research-heading {
   font-size: 1em;
 }
 
+.research-desc {
+  font-size: 0.8em;
+  margin-top: -1em;
+}
+
 .research-image {
   max-width:150px;
   max-height:100px;
-  width: auto;
+  width: 150px;
   height: auto;
 }
-
 
